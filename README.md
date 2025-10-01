@@ -6,3 +6,6 @@
 #### C++ API Reference
 [Operations](https://ml-explore.github.io/mlx/build/html/cpp/ops.html)
 
+#### Training output
+
+![Training output](./training-output.png)
